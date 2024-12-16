@@ -1,6 +1,6 @@
-# FeedbackPro Backend
+# FeedbackPro 
 
-## Project Description
+## Project Backend Description
 This project serves as the backend for the Feedback Platform, providing functionalities such as Google OAuth authentication and integration with Frill.co for feedback management.
 
 ## Installation
